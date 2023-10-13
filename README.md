@@ -1,7 +1,6 @@
 # 👀 About Me:
 **`● Estudante de computação`**
 
-**`● Foco em back-end`**
 
 ● Mesmo com interesse pela tecnologia desde cedo, só me interessei pelo curso em dezembro de 2022, então tenho pouca experiência com programação.
 
