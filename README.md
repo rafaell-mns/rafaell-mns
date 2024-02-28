@@ -43,5 +43,6 @@
 
 ## 😃 Social
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaell.mns/)
+<a id="linkedin" href="https://www.linkedin.com/in/francisco-rafael-07747126a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <!-- Nota: Readme baseado em https://gprm.itsvg.in e https://github.com/italo-mauricio/italo-mauricio/blob/main/README.md -->
