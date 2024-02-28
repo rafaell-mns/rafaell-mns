@@ -1,17 +1,47 @@
-# 👀 About Me:
-● Mesmo com interesse pela tecnologia desde cedo, só me interessei pelo curso em dezembro de 2022, então tenho pouca experiência com programação.
+## 👀 Sobre mim
+- Tenho interesse pela tecnologia desde cedo, mas só comecei a programar quando já estava na faculdade. Mesmo assim, estou gostando bastante e me desenvolvendo bem.
+- Atualmente com foco em cumprir um roadmap de estudos de Java.
+
+## 🎯 Skills
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+</tr>
+</table>
+
+## 🚀 Status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaell-mns&theme=discord_old_blurple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaell-mns&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaell-mns&theme=discord_old_blurple)
 
 
-# 💻 Tech Stack:
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML icon" width="65" height="65"/> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS icon" width="65" height="65"/> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C icon" width="65" height="65"/> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+## 😃 Social
+[<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaell.mns/)
 
-  
-# 📊 GitHub Stats:
-![rafaell-mns's Stats](https://github-readme-stats.vercel.app/api?username=rafaell-mns&theme=react&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaell-mns&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaell-mns&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafaell-mns&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Nota: Readme baseado em https://gprm.itsvg.in e https://github.com/italo-mauricio/italo-mauricio/blob/main/README.md -->
