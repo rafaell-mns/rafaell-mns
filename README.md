@@ -2,10 +2,12 @@
 - Tenho interesse pela tecnologia desde cedo, mas só comecei a programar quando já estava na faculdade. Mesmo assim, estou gostando bastante e me desenvolvendo bem.
 
 ## 🚀 Habilidades
-- Java + MySQL
+- Java
 - Python
-- HTML e CSS
+- MySQL
+- Básico de Git
 - C
+- HTML e CSS
 
 ## 😃 Contato
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaell.mns/)
