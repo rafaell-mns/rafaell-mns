@@ -1,5 +1,6 @@
 ## 👀 Sobre mim
 - Tenho interesse pela tecnologia desde cedo, mas só comecei a programar quando já estava na faculdade. Mesmo assim, estou gostando bastante e me desenvolvendo bem.
+- Foco atual: completar o roadmap de Python disponível em https://roadmap.sh/python
 
 ## 🚀 Habilidades
 - Java
